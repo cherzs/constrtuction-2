@@ -176,6 +176,13 @@ export default function Contact() {
               >
                 @flowcreativconsultant
               </a>
+              <a
+                href="https://www.linkedin.com/in/zhafranghaly/"
+                target="_blank"
+                className="text-sm text-foreground font-light hover:text-muted-foreground transition-colors mt-3 block"
+              >
+                LinkedIn
+              </a>
             </div>
 
             <Divider />

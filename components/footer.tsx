@@ -93,6 +93,9 @@ export function Footer() {
               <a href="https://www.instagram.com/flowcreativconsultant/" target="_blank" className="hover:text-foreground transition-colors">
                 Instagram
               </a>
+              <a href="https://www.linkedin.com/in/zhafranghaly/" target="_blank" className="hover:text-foreground transition-colors">
+                LinkedIn
+              </a>
               <a href="https://wa.me/6285161917939" target="_blank" className="hover:text-foreground transition-colors">
                 WhatsApp
               </a>
