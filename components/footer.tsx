@@ -64,17 +64,20 @@ export function Footer() {
               </h4>
               <ul className="space-y-3">
                 <li>
-                  <p className="text-sm text-muted-foreground">
-                    Seoul, South Korea<br/>
-                    +82 (0) 2 XXXX XXXX
-                  </p>
+                  <a
+                    href="https://wa.me/6285161917939"
+                    target="_blank"
+                    className="text-sm text-muted-foreground hover:text-foreground transition-colors"
+                  >
+                    +62 851-6191-7939
+                  </a>
                 </li>
                 <li>
                   <a
-                    href="mailto:hello@shindongah.com"
+                    href="mailto:flowcreativconsultant@gmail.com"
                     className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                   >
-                    hello@shindongah.com
+                    flowcreativconsultant@gmail.com
                   </a>
                 </li>
               </ul>
@@ -87,11 +90,11 @@ export function Footer() {
           <div className="flex flex-col md:flex-row items-center justify-between text-sm text-muted-foreground">
             <p>© {currentYear} PT. Shin Dongah Construction. All rights reserved.</p>
             <div className="flex gap-6 mt-4 md:mt-0">
-              <a href="#" className="hover:text-foreground transition-colors">
+              <a href="https://www.instagram.com/flowcreativconsultant/" target="_blank" className="hover:text-foreground transition-colors">
                 Instagram
               </a>
-              <a href="#" className="hover:text-foreground transition-colors">
-                LinkedIn
+              <a href="https://wa.me/6285161917939" target="_blank" className="hover:text-foreground transition-colors">
+                WhatsApp
               </a>
               <a href="#" className="hover:text-foreground transition-colors">
                 Privacy

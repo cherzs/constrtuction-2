@@ -157,14 +157,25 @@ export default function Contact() {
                 Contact
               </p>
               <a
-                href="mailto:hello@shindongah.com"
+                href="mailto:flowcreativconsultant@gmail.com"
                 className="text-sm text-foreground font-light hover:text-muted-foreground transition-colors"
               >
-                hello@shindongah.com
+                flowcreativconsultant@gmail.com
               </a>
-              <p className="text-sm text-foreground font-light mt-3">
-                +82 (0) 2 XXXX XXXX
-              </p>
+              <a
+                href="https://wa.me/6285161917939"
+                target="_blank"
+                className="text-sm text-foreground font-light hover:text-muted-foreground transition-colors mt-3 block"
+              >
+                +62 851-6191-7939
+              </a>
+              <a
+                href="https://www.instagram.com/flowcreativconsultant/"
+                target="_blank"
+                className="text-sm text-foreground font-light hover:text-muted-foreground transition-colors mt-3 block"
+              >
+                @flowcreativconsultant
+              </a>
             </div>
 
             <Divider />
