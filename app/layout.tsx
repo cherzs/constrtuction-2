@@ -10,21 +10,7 @@ export const metadata: Metadata = {
   title: 'Keen Architecture | Award-Winning Architects',
   description: 'Keen Architecture delivers exceptional architectural design for residential, commercial, institutional, and urban planning projects globally. 25+ years of excellence.',
   icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
+    icon: '/icon.svg',
   },
 }
 
